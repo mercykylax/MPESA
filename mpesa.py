@@ -2,7 +2,7 @@ class Mpesaaccount:
 	def__init__(self,name,phone__n.o,balance)
 	               self.name=name
 	               self.phone__n.o=phone__n.o
-	               self.number=number
+	               self.balance=balance
 	def deposit(self,y):
 		deposit = y
 		self.balance = self.balance + y
